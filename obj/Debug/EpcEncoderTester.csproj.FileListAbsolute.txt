@@ -1,9 +1,0 @@
-C:\Users\sologix1\source\repos\EpcEncoderTester\bin\Debug\EpcEncoderTester.exe.config
-C:\Users\sologix1\source\repos\EpcEncoderTester\bin\Debug\EpcEncoderTester.exe
-C:\Users\sologix1\source\repos\EpcEncoderTester\bin\Debug\EpcEncoderTester.pdb
-C:\Users\sologix1\source\repos\EpcEncoderTester\obj\Debug\EpcEncoderTester.csprojAssemblyReference.cache
-C:\Users\sologix1\source\repos\EpcEncoderTester\obj\Debug\EpcEncoderTester.frmMain.resources
-C:\Users\sologix1\source\repos\EpcEncoderTester\obj\Debug\EpcEncoderTester.Properties.Resources.resources
-C:\Users\sologix1\source\repos\EpcEncoderTester\obj\Debug\EpcEncoderTester.csproj.GenerateResource.cache
-C:\Users\sologix1\source\repos\EpcEncoderTester\obj\Debug\EpcEncoderTester.exe
-C:\Users\sologix1\source\repos\EpcEncoderTester\obj\Debug\EpcEncoderTester.pdb
