@@ -123,40 +123,102 @@
   <metadata name="Filter.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="GS1Prefix.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <metadata name="GS1CompanyPrefix.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Extension.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="LocationReference.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="AssetType.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
   <metadata name="Item.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="SeqRFID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <metadata name="Serial.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
   <metadata name="EPC_Gerado.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="EPC_GS1.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="TipoEncoder.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="Filter.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="GS1Prefix.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="Item.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="SeqRFID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="EPC_Gerado.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="EPC_GS1.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAD/////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //96vGv/XLFS/1CvTv9NsFL/ULVd/1a5aP9pxID/idKg/7fkyP/5/fv/////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////2uvU/z6gKP9Wr0z/XLVa/1+6ZP9ivm3/ZcB2/2bEfv9nxoP/ZceL/17Ijf+e37//////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////9vtVj/T6k7/1ixT/9dtlv/YLpl/2O+bv9mwHf/acWA/2zIh/9vypL/cc6a/2vQ
+        nv9/17H/////////////////////////////////////////////////////////////////////////
+        ////////////////////////7/Xr/zmaGf9Vq0H/WbFP/122W/9gumX/Y75u/2bAd/9pxYD/bMiH/2/K
+        kv9yz5v/ddOk/2rSpv/D7d7/////////////////////////////////////////////////////////
+        //////////////////////////////////+BvWn/R6Ir/1WsQv9ZsU//XbZb/2C6Zf9jvm7/ZsB3/2nF
+        gP9syIf/b8qS/3LPm/9106T/cdSq/5ziyP//////////////////////////////////////////////
+        /////////////////////////////////////////////zSVDP9PpjT/VaxC/1mxT/9dtlv/YLpl/2O+
+        bv9mwHf/acWA/2zIh/9vypL/cs+b/3XTpP9u06j/sOjS////////////////////////////////////
+        //////////////////////////////////////////////////+Wxn3/QJwa/0+nNf9VrEH/WLBO/1u1
+        Wf9duWL/YL1r/2TAdf9nxH7/aseG/23Kkf9vzpn/bdCe/2vSpv/////////////////+////////////
+        /////////////////////////////////////////////////////////////zeSBf9HoCP/RaEp/0Sj
+        L/9Fpzv/WrRY/2W7av9ov3L/ZsB3/2TCfP9kxIH/ZseL/3LOm/+h4MH//////////////////fv2///+
+        /v////////////////////////////////////////////////////////////////+r0JP/LY4A/0Od
+        Hv+j0JX/5/Lk////////////////////////////////////////////////////////////////////
+        ///79uv/+/fv/////////////////////////////////////////////////////////////////yaG
+        AP+dyob////////////////////////////////////////////9/v3/////////////////////////
+        //////////////Xs1P/279r/////////////////////////////////////////////////////////
+        //+21J//2OnM///////////////////////////////////////lyZX/0I0X/9ufMv/pwXf/////////
+        ////////////////////////7Nyt//DkwP//////////////////////////////////////////////
+        /////////////////////////////////////////////////////////f///79xAP/YnTT/4KtM/+ay
+        Uv/14rv//////////////////////+3huP/r3Kn/6dml////////////////////////////////////
+        ///////////////////////////////////////////////////+////+/Tn//nr0f//////w3wA/9aY
+        Kv/fqEX/5a1J//jt1v/////////////////q3q//5tee/+japP/m153/+fbp////////////////////
+        ///////////////////////////////////////////////////78eD/9+K+//XZqP/116P/+/Pk////
+        ///69+//4LZq/+S5a//15cf////////////z7dT/4dKS/+PVl//k1pv/5dac/+PVmP/w6Mj/////////
+        ///////////////////////////////////////////////////45sf/9daj//bbrP/23bD/9t2v//fg
+        uv/////////////////////////////////y7dT/4NGP/9/PiP/h0pD/4dOS/+LTk//i05P/4dKS/+TY
+        oP/////////////////////////////////////////////////358r/8MqE//LQk//11qD/9tmq//bd
+        sf/22qn//fny///////////////////////y7tX/282D/9rKfP/dzob/3s+I/97Pif/e0Ir/39CL/9/R
+        jP/g0Yz/28uA////////////////////////////////////////////7suJ/+7Ccf/xyoX/8c6O//PS
+        l//01Z//9dem//fhu///////////////////////286G/9TFbf/XyXn/2Mp8/9nLfP/Zy37/2ct//9rM
+        gP/azIH/282C/9vNg//YyXn/9PDc/////////////////////////////////+q7Yf/svGT/7cN0/+7G
+        fP/xyoT/8c2N//LRlf/z0ZX/+/To/////////////////9nMgf/Sw2b/1cZv/9XGcP/Vx3H/1cdy/9bI
+        c//WyHT/18h1/9bIdv/XyXf/18l4/9bHcv/k26j////////////////////////////ntVP/6bVS/+u7
+        Yf/tvmn/7sJy/+7Ge//xyYL/8cyK//HOkP//////////////////////ybhM/9DCZP/RwmX/0cJm/9LD
+        Z//Sw2j/0sNp/9LEav/TxGv/1MVs/9TFbf/UxWz/zr1Z/+ffsf//////////////////////6sJx/+ar
+        PP/otE//6bdX/+u7YP/svmj/7sFw/+7Fef/vxnv/9d60///////////////////////FtUT/zL1Y/82+
+        Wv/Ovlv/zr5c/8+/Xf/Pv17/z8Bf/8/AYP/QwGH/zb1Y/8y7Vv/z79j///////////////////////br
+        0f/hnhz/5qw9/+ewRf/os07/6bZW/+q6Xv/svWb/7cFu/+zAbf/57df//////////////////////+Ha
+        pP/BsDf/yblO/8m6UP/Ju1L/yrtT/8q8VP/Ku1P/yLlM/8SzP//c0pD/////////////////////////
+        ////////4qk2/+KjJv/kqDT/5aw8/+evRP/oskz/6bVU/+q5XP/rvWX/7Lpe//z69v//////////////
+        /////////////+Pdq/+/rzP/wK8y/8GxN//BsTj/wK80/8OzQP/c05H//Pz4////////////////////
+        //////////////jx3//ckgD/4qEj/+KlKv/kqDP/5as6/+euQv/oskv/6bVS/+q4Wv/ntFP/////////
+        ///////////////////////////////////x79f/6eW9/+zoxf/39ur/////////////////////////
+        ////////////////////////6sN1/92UA//gnRn/4qAh/+KkKf/kpzH/5ao5/+auQf/osUn/6bRQ/+ey
+        TP//////////////////////////////////////////////////////////////////////////////
+        ///////////////////////////////////eoCD/3JIB/9+ZD//fnRj/4aAg/+KjJ//jpjD/5ao4/+at
+        P//osEf/5a1C////////////////////////////////////////////////////////////////////
+        /////////////////////////////////////////////9eIAP/ckgD/3ZQG/9+YDv/fnBb/4J8e/+Kj
+        Jv/jpi7/5ak2/+atPv/jpjP/////////////////////////////////////////////////////////
+        ///////////////////////////////////////////////////+////2IYA/92SAP/ckgD/3JQE/96Y
+        DP/fmxT/4J4d/+KiJf/jpS3/5Kg1/+OjKP/7+vX/////////////////////////////////////////
+        //////////////////////////////////////////////////////////////v58v/ZhwD/3ZMA/92T
+        AP/ckgD/3JMD/96XC//fmxP/4J4b/+KhI//ipSv/4qEi//bozP//////////////////////////////
+        ////////////////////////////////////////////////////////////////////////+vjx/9mH
+        AP/dkwD/3ZMA/92TAP/dkgD/3JMB/96WCf/fmhL/4J0a/+KgIv/hnx3/79CT////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ///9/fv/1n4A/9qKAP/aiQD/2okA/9qJAP/aiAD/2YgA/9qLAP/cjwD/3JIA/96TAv/hpjD/////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ///////////////////y3LD/9eO///TlxP/158n/9+rO//fs0//47tj/+fDd//jy4//59On/+/fu//v2
+        7P//////////////////////////////////////////////////////////////////////////////
+        ////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+</value>
+  </data>
 </root>
